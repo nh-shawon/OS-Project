@@ -1,0 +1,11 @@
+### BEGIN MYKERNEL ###
+
+menuentry 'Shawon OS' {
+
+	multiboot /boot/mykernel.bin
+	boot
+
+}
+
+### END MYKERNEL ###
+
